@@ -24,5 +24,5 @@ L'autre ouvre son sac-à-main et lui répond:
 
 - Le lien vers la version en production sur GitHub Pages:
 
-https://vinceng63.github.io/S1J2/
+https://vinceng63.github.io/Vinceng63.github.io
 
